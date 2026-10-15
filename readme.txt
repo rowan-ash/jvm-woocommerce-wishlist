@@ -3,7 +3,7 @@ Contributors: im_niloy,codeixer,jorisvanmontfort,blazecommerce
 Tags: wishlist for woocommerce,wishlist, woocommerce wishlist,ti wishlist, add to wishlist
 Requires at least: 5.0
 Tested up to: 7.1
-Stable tag: 2.0.7
+Stable tag: 2.0.8
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -78,6 +78,10 @@ To install the WooCommerce Wishlist plugin, please follow these steps:
 
 
 == Changelog ==
+
+= 2.0.8 - 15 Oct 26 =
+
+* Tweak: Tested up to WooCommerce 11.2
 
 = 2.0.7 - 1 Oct 26 =
 
